@@ -13,7 +13,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
+        <p className="p__opensans">From bohemian haunt to contemporary temple, we ignite palates with timeless elegance and innovative flavors, a testament to Paris' enduring culinary spirit</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
 
@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">Grenat, once a haunt for Belle Époque bohemians, rekindles its flame, its historic grandeur reimagined for modern palates, a testament to the city's enduring culinary spirit</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>

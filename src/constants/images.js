@@ -20,6 +20,9 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+// import kevin_luo from '..assets/kevin_luo.png';
+// import Fine_Dine_2 from '..assets/Fine_Dine_2.png';
+// import Grenat_logo from '..assets/Grenat_logo.png';
 
 export default {
   bg,
@@ -44,4 +47,7 @@ export default {
   sign,
   quote,
   gericht,
+  // Grenat_logo,
+  // Fine_Dine_2,
+  // kevin_luo,
 };
