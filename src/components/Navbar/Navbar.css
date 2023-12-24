@@ -4,8 +4,9 @@
     justify-content: space-between;
     align-items: center;
     background: var(--color-black);
-
+    position: fixed;
     padding: 1rem 2rem;
+    z-index: 10;
 }
 
 .app__navbar-logo {

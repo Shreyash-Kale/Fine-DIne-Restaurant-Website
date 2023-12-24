@@ -1,5 +1,5 @@
 import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
+import chef from '../assets/kevin_luo.png';
 import G from '../assets/G.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
@@ -10,7 +10,7 @@ import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
-import welcome from '../assets/welcome.png';
+import welcome from '../assets/Fine_Dine_2.png';
 import findus from '../assets/findus.png';
 import laurels from '../assets/laurels.png';
 import award01 from '../assets/award01.png';
@@ -20,9 +20,7 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
-// import kevin_luo from '..assets/kevin_luo.png';
-// import Fine_Dine_2 from '..assets/Fine_Dine_2.png';
-// import Grenat_logo from '..assets/Grenat_logo.png';
+import Grenat_logo2 from '../assets/Grenat_logo2.jpg';
 
 export default {
   bg,
@@ -47,7 +45,5 @@ export default {
   sign,
   quote,
   gericht,
-  // Grenat_logo,
-  // Fine_Dine_2,
-  // kevin_luo,
+  Grenat_logo2,
 };
